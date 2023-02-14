@@ -1,4 +1,4 @@
 # collection
 
-https://github.com/iCHAIT/awesome-macOS#finder
+https://github.com/iCHAIT/awesome-macOS
 
